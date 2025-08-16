@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Macbook Pro",
+    "price": 9000,
+    "category": "bilgisayar"
+  },
+  {
+    "id": 2,
+    "title": "Macbook Air",
+    "price": 7000,
+    "category": "bilgisayar"
+  }
+]
